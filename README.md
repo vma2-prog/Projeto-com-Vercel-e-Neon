@@ -54,5 +54,6 @@ Relacionamento: um usuário possui várias credenciais (`User 1:N Credential`).
 
 **Nunca coloque valores reais das variáveis no GitHub.** O arquivo `.env.example` contém somente placeholders.
 
-## Observação acadêmica
-Este projeto demonstra autenticação, CRUD, relacionamento entre entidades, API REST, banco PostgreSQL e deploy em nuvem. Para um produto real, ainda seriam recomendados controles adicionais como rate limiting, recuperação de conta, auditoria, CSP, rotação de chaves, testes automatizados e revisão de segurança independente.
+## Link para o projeto na Vercel
+
+[https://projeto-com-vercel-e-neon.vercel.app/](https://projeto-co>
