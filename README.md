@@ -2,6 +2,14 @@
 
 Projeto acadêmico para o trabalho de API REST. A aplicação permite criar uma conta e salvar logins (serviço, site, usuário, senha e observações) em um cofre pessoal.
 
+## Link para o projeto na Vercel
+
+[https://projeto-com-vercel-e-neon.vercel.app/](https://projeto-com-vercel-e-neon.vercel.app/)
+
+## Integrantes
+- Samyr Mello
+- Vítor Marques
+
 ## Tecnologias
 - Next.js 16 + React 19
 - API REST com Route Handlers
@@ -53,7 +61,3 @@ Relacionamento: um usuário possui várias credenciais (`User 1:N Credential`).
 6. No Neon, mantenha o banco criado e o schema aplicado.
 
 **Nunca coloque valores reais das variáveis no GitHub.** O arquivo `.env.example` contém somente placeholders.
-
-## Link para o projeto na Vercel
-
-[https://projeto-com-vercel-e-neon.vercel.app/](https://projeto-com-vercel-e-neon.vercel.app/)
