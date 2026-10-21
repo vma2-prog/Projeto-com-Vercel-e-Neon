@@ -56,4 +56,4 @@ Relacionamento: um usuário possui várias credenciais (`User 1:N Credential`).
 
 ## Link para o projeto na Vercel
 
-[https://projeto-com-vercel-e-neon.vercel.app/](https://projeto-co>
+[https://projeto-com-vercel-e-neon.vercel.app/](https://projeto-com-vercel-e-neon.vercel.app/)
